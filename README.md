@@ -1,1 +1,1 @@
-This repository will be actively updated.
+This repository will be actively updated. The tutorial blogs can be found [here](https://luyao787.github.io/blog/).
